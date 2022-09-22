@@ -1,0 +1,195 @@
+/* This is the code section for the Navbar area */
+.navbar {
+    margin: 10px;
+}
+.SWOT-Logo {
+    border-radius: 50%;
+    height: 150px;
+    width: 150px; 
+}
+.nav-link {
+    color: red;
+}
+table th {
+    text-align: center;
+}
+table td {
+    text-align: center;
+}
+hr {
+    width: 50%;
+    height: 10px;
+}
+
+/* This is the code esectin for the Home area */
+.Home {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    background-color: rgb(188, 213, 210);
+}
+.image1 {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    position: relative;
+    top: 50px;
+    left: 20px;
+}
+.image2 {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    position: relative;
+    top: 50px; 
+    right: 20px; 
+}
+.Meet-me {
+    margin: 60px;
+    align-self: center;
+}
+.header-content {
+    margin: 20px;
+}
+.btn2 {
+    border-radius: 30px;
+    margin: 20px;
+}
+.btn2:hover {
+    color: rgb(99, 108, 111);
+}
+.YT-Link {
+    margin: 20px;
+}
+.btn3 {
+    border-radius: 5%;
+}
+.btn4 {
+    border-radius: 10%;
+    margin: 20px;
+}
+.LPU{
+    color: red;
+    margin: 3px;
+}
+.front-end {
+    color: blue; 
+}
+
+/* This is the code section for the Skills area */
+.skills {
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(129, 154, 162);
+}
+.table1 {
+    margin: 10px;
+    align-self: center;
+    color: red;
+    border: 5px solid red;
+    margin: 10px;
+    font-size: 1.2rem;
+    width: 80%;
+
+}
+.span1 {
+    color: purple;
+}
+
+/* Strength Section of the CSS Section */
+.strength {
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+.table2 {
+    align-self: center;
+    border: 5px solid black;
+}
+
+
+/* weakness and Opportunities Section of the CSS Section */
+.WO {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    gap: 20px;
+    background-color: rgb(129, 154, 162);
+}
+.table3 {
+    align-self: center;
+    border: 5px solid;
+    margin: 2px;
+}
+.table4 {
+    align-self: center;
+    border: 5px solid;
+}
+
+
+/* Threats section of the CSS */
+.Threats {
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+.table5 {
+    border: 5px solid;
+}
+
+/* This is the section for the Thank you page  */
+.Thank-You {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(129, 154, 162);
+    gap: 200px;
+    margin: 10px;
+}
+.image4 {
+    width: 300px;
+    height: 300px;
+    border-radius: 30%;
+}
+.question {
+    position: relative;
+    left: 50px;
+}
+
+/* Footer Section code */
+.Footer-section {
+    background-color: rgb(185, 208, 208);
+    margin: 10px;
+}
+.media-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.media {
+    padding: 10px;
+}
+.media:hover {
+    color: rgb(33, 100, 105);
+}
+.channels {
+    text-decoration: active;
+    color: none;
+}
+.copyright {
+    text-align: center;
+    color: white;
+}
+.name {
+    color: black;
+}
+.heart {
+    color: red;
+}
+.arrow {
+    display: flex;
+    justify-content: flex-end;
+}
+.top {
+    color: red;
+}
